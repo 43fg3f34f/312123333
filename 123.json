@@ -1,26 +1,26 @@
 {
   "66654135": {
-    "script": "",
-    "working": false
+    "script": "https://api.getpolsec.com/scripts/hosted/b938ab93b05e6cbcc128207786fc22e502aadcfa593699700caf652bd07a8f13.lua",
+    "working": true
   },
   "73885730": {
-    "script": "",
-    "working": false
+    "script": "https://api.getpolsec.com/scripts/hosted/b938ab93b05e6cbcc128207786fc22e502aadcfa593699700caf652bd07a8f13.lua",
+    "working": true
   },
   "8795154789": {
-    "script": "",
-    "working": false
+    "script": "https://api.getpolsec.com/scripts/hosted/9213c52767e800e37cec55e24abf22c36ae00c0202d15737098978688a968a52.lua",
+    "working": true
   },
   "9792947201": {
     "script": "",
     "working": false
   },
   "7395930870": {
-    "script": "",
-    "working": false
+    "script": "https://api.getpolsec.com/scripts/hosted/13fb191da16de8b25c065325cae6cf5c71fecd262ea3ce4ded6f7262fde0cb3f.lua",
+    "working": true
   },
   "10131390815": {
-    "script": "",
-    "working": false
+    "script": "https://api.getpolsec.com/scripts/hosted/cec1a5845f141da85fb42145831ed30da97b4addfe17576d3a000bd091a43baa.lua",
+    "working": true
   }
 }
