@@ -4,7 +4,7 @@ Wave
 Potassium
 Delta
 Synapse Z
-Nihon
+Isaeva
 Madium
 Cosmic
 Real
